@@ -1,4 +1,4 @@
-# Enhanced Animator Path Editor for ComfyUI
+# Enhanced Animator Path Editor for ComfyUI ( WAN ATI )
 ![Tested ENV](https://img.shields.io/badge/Tested%20ENV:-lightgrey)
 ![Python 3.12.x](https://img.shields.io/badge/Python-3.12.x-76B900) 
 ![Pytorch Ver 2.10](https://img.shields.io/badge/Pytorch-2.10.0-76B900)
